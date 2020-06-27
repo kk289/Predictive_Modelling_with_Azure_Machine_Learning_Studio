@@ -1,4 +1,4 @@
-#Project: Predictive Modeling with Azure Machine Learning Studio    
+# Project: Predictive Modeling with Azure Machine Learning Studio    
 Taught by: Snehan Kekre, Machine Learning Instructor, Machine Learning
 
 ### Introduction 
@@ -26,11 +26,11 @@ In this project, I learned to use Azure Machine Learning Studio to build a predi
 
 Accuracy: *76.9%*   
 
-![ROC_Curve](Figure/ROC_Curve.png)    
+![ROC_Curve](https://github.com/kk289/Predictive_Modelling_with_Azure_Machine_Learning_Studio/blob/master/ROC_Curve.png)    
 - Figure: ROC Curve 
 
 
-![Summary](Figure/Summary.png)    
+![Summary](https://github.com/kk289/Predictive_Modelling_with_Azure_Machine_Learning_Studio/blob/master/Summary.png)    
 - Summary of the model  
 
 ### Accomplished
