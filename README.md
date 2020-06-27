@@ -33,7 +33,7 @@ Accuracy: *76.9%*
 ![Summary](https://github.com/kk289/Predictive_Modelling_with_Azure_Machine_Learning_Studio/blob/master/Summary.png)    
 - Summary of the model  
 
-### Accomplished
+### Accomplishment
 
 - Applied Two-class logistic Regression to predict the model
 - Able to train and evaluate a predictive model on Azure Machine Learning Studio, all without writing a single line of code! 
